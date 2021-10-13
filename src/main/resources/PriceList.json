@@ -1,0 +1,22 @@
+[
+  {
+    "name": "A",
+    "price": 1.25,
+    "specialOffer": 3.0,
+    "discountedQuantity": 3
+  },
+  {
+    "name": "B",
+    "price": 4.25
+  },
+  {
+    "name": "C",
+    "price": 1.0,
+    "specialOffer": 5.0,
+    "discountedQuantity": 6
+  },
+  {
+    "name": "D",
+    "price": 0.75
+  }
+]
