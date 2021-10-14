@@ -19,6 +19,7 @@ public class CalculatorTest {
 
     @Test
     public void productsPriceCountTest() {
+        Assert.assertEquals (13.25, calculator.calculateTotalCost ("ABCDABA",products),0);
         Assert.assertEquals (0.0, calculator.calculateTotalCost ("tuityutjryu",products),0);
     }
 
